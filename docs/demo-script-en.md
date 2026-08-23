@@ -1,0 +1,22 @@
+# AI-Claw English Demo Script
+
+Target runtime: approximately 97 seconds. Narration is a synthetic English voice track created for this showcase. The source capture contains Chinese product labels; the English layer covers the original subtitle strip but does not redraw every screen label.
+
+## Narration
+
+AI-Claw is an intelligent service platform for crayfish aquaculture. It connects production data, field operations, and business decisions in one auditable workspace.
+
+The overview brings together ponds, water quality, weather, risks, tasks, and market signals. Teams can move from a high-level situation to the exact object that needs attention.
+
+The AI-Claw assistant combines structured records with rules and retrieval. It explains the evidence behind a recommendation instead of presenting a black-box answer.
+
+For a persistent low-oxygen alert in Pond 12, it prioritizes aeration, pauses or reduces feeding, asks the operator to verify equipment and dissolved oxygen, and schedules a thirty-minute retest.
+
+The recommendation becomes an accountable task. A responsible role, deadline, execution feedback, retest result, and audit trail keep the loop visible from decision to closure.
+
+In the data center, source records are mapped, quality checked, reviewed, and versioned. Visual samples stay separated by provenance and approval status.
+
+On the business side, market and order signals are checked against production risk before harvest or fulfillment is scheduled. The platform supports human decisions; it does not bypass authorization.
+
+AI-Claw turns multi-source data into explainable action. It helps teams manage farms, coordinate people and devices, and build reusable evidence for the next production cycle. This is a showcase build; the production core remains private.
+
