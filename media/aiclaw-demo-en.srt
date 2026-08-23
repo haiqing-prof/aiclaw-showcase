@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:10,000
+AI-Claw is an intelligent service platform for crayfish aquaculture.
+It connects production data, field operations, and business decisions.
+
+2
+00:00:10,000 --> 00:00:22,000
+The overview brings together ponds, water quality, weather, risks,
+tasks, and market signals in one auditable workspace.
+
+3
+00:00:22,000 --> 00:00:35,000
+The AI-Claw assistant combines structured records with rules and retrieval.
+It explains the evidence behind each recommendation.
+
+4
+00:00:35,000 --> 00:00:49,000
+For persistent low oxygen in Pond 12, it prioritizes aeration,
+reduces feeding, verifies equipment and dissolved oxygen,
+and schedules a thirty-minute retest.
+
+5
+00:00:49,000 --> 00:01:01,000
+The recommendation becomes an accountable task with an owner,
+deadline, execution feedback, retest result, and audit trail.
+
+6
+00:01:01,000 --> 00:01:13,000
+Source records are mapped, quality checked, reviewed, and versioned.
+Visual samples stay separated by provenance and approval status.
+
+7
+00:01:13,000 --> 00:01:25,000
+Market and order signals are checked against production risk before harvest
+or fulfillment is scheduled. Authorization remains a human boundary.
+
+8
+00:01:25,000 --> 00:01:36,860
+AI-Claw turns multi-source data into explainable action and reusable evidence
+for the next production cycle. This showcase is public; the production core remains private.
+
